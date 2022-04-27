@@ -22,7 +22,6 @@
   * 4. 지속적인 개선
     * 5년 주기의 멤버쉼
    
-
 ## 정책 프레임워크
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
 
